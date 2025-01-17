@@ -1,6 +1,6 @@
 # 03 = hide 
 # 02 = show
-$autohide = 03
+$autohide = 02
 
 # Define the registry path and value name
 $registryPath = "SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3"
