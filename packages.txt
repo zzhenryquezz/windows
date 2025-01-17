@@ -1,0 +1,10 @@
+googlechrome
+vscode
+winrar
+git
+nodejs
+spotify
+neovim
+lbhub
+logitech-options
+steam
