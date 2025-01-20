@@ -5,6 +5,10 @@ git
 nodejs
 spotify
 neovim
-lbhub
+lghub
 logitech-options
 steam
+notion
+geforce-experience
+llvm
+nerd-fonts-noto
